@@ -16,3 +16,6 @@ https://www.kaggle.com/sohaelshafey/multi-label-tweets-feature-extraction-lexico
 
 nrc vad lexicon feature extraction
 https://www.kaggle.com/sohaelshafey/multi-label-tweets-feature-extraction-lexicon-3
+
+Model Implementation for 11 emotion detection
+https://www.kaggle.com/sohaelshafey/multi-label-tweets-model-implementation
